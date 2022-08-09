@@ -1,12 +1,6 @@
-## Hi there 👋
+# [EdgeGamers](https://www.edgegamers.com) Github
+## Who are we?
+We are EdgeGamers, a punk-free gaming community since 2006. We have gameservers across CS:GO, CS:S, Minecraft, and much more. You can find out more about us [here](https://www.edgegamers.com/pages/about-us/).
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What's on here?
+This is EdgeGamer's Github page. You can find some of our public repositories and projects that we use on our servers. The projects on here were forked or sourced publicly for the purpose of improvement and maintenance. <br><b>Interested In Joining?</b> [Join our](https://www.edgegamers.com/threads/318139/) Tech Team and help contribute to our projects and servers!
